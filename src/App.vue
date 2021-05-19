@@ -1,5 +1,5 @@
 <template>
-  <div class="h-10 bg-gray-400 shadow">
+  <div class="h-10 bg-gray-400 shadow-xl">
     <Dashbord />
     <Body />
   </div>
