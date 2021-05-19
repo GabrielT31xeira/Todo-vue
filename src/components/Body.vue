@@ -50,7 +50,7 @@ export default {
     },
 
     removeTodo: function(todo) {
-      this.todos.splice(todo, 1)
+      this.todos.splice(todo,1);
     },
   },
 };
